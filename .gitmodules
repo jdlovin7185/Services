@@ -1,0 +1,3 @@
+[submodule "employee-service"]
+	path = employee-service
+	url = https://github.com/jdlovin7185/employee-service
